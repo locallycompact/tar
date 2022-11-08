@@ -83,7 +83,6 @@ test-suite properties
   build-depends: base,
                  array,
                  bytestring >= 0.10,
-                 bytestring-handle,
                  containers,
                  deepseq,
                  directory >= 1.2,
